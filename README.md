@@ -10,12 +10,12 @@ This repository documents my hands-on exploration of Scikit-learn, developed as 
 6. Cross-validation and basic hyperparameter tuning (GridSearchCV)
 
 🎯 Learning Objectives
-Develop familiarity with Scikit-learn’s intuitive API structure
-Apply machine learning models to real-world datasets
-Interpret model outputs and improve results iteratively
-Build a foundation for more advanced ML frameworks like TensorFlow
+1. Develop familiarity with Scikit-learn’s intuitive API structure
+2. Apply machine learning models to real-world datasets
+3. Interpret model outputs and improve results iteratively
+4. Build a foundation for more advanced ML frameworks like TensorFlow
 
 🧪 Format & Tools
-Python-based implementations in Jupyter Notebooks
-Visualizations using Matplotlib and Seaborn
-Datasets sourced from Scikit-learn or external repositories
+1. Python-based implementations in Jupyter Notebooks
+2. Visualizations using Matplotlib and Seaborn
+3. Datasets sourced from Scikit-learn or external repositories
